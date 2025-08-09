@@ -113,15 +113,7 @@ The fast implementation shows significant improvements, especially for large spa
 ### Example 1: Basic Usage
 ```bash
 $ python3 q1.py --stdin < input_q1_case1.txt
-1
-0
-1
-1
-0
-1
-1
-1
-1
+1 0 1 1 0 1 1 1 1
 ```
 
 ### Example 2: Verification Mode
